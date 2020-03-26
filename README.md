@@ -1,8 +1,10 @@
-![Go Drive](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/go-drive-logo.png) 
+![Go Drive](https://raw.githubusercontent.com/shivamvijaywargi/goindex-drive/master/go-drive-logo.png) 
 
 ## Source
 Origin https://github.com/donwa/goindex
-Dark Theme & Search https://github.com/ParveenBhadooOfficial/go-drive
+
+## I Forked from
+https://github.com/kulokenci/goindex-drive
 
 
 ## Quick Deployment
@@ -10,7 +12,7 @@ Dark Theme & Search https://github.com/ParveenBhadooOfficial/go-drive
 2. Auth and get the refresh_token and paste on line 8 or just copy the full code and paste in Cloudflare workers.
 3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/workers)
 
-![Go Drive Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/ss.jpg)  
+![Go Drive Dark Theme](https://raw.githubusercontent.com/shivamvijaywargi/goindex-drive/master/screenshot.jpg)  
 
 ## Use your own credentials and data
 * Open https://console.developers.google.com/apis/credentials
