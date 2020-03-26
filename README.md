@@ -35,6 +35,6 @@ https://github.com/kulokenci/goindex-drive
 * It will turn to Step 2 Exchange authorization code for tokens at the end of authentication.
 * Click on Exchange authorization code for tokens, if it goes to step 3, click on Step 2 yourself.
 * Select the option Auto-refresh the token before it expires.
-* Copy the refresh token and paste in Line 8 of https://github.com/kulokenci/goindex-drive/blob/master/worker.js along with your own Client ID and Secret at Line 6 and Line 7.
+* Copy the refresh token and paste in Line 8 of https://github.com/shivamvijaywargi/goindex-drive/blob/master/worker.js along with your own Client ID and Secret at Line 6 and Line 7.
 * Copy the Code and paste it into https://workers.cloudflare.com Site.
 
